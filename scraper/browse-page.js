@@ -1,6 +1,6 @@
 import { resolve } from 'node:url'
 import * as cheerio from 'cheerio'
-import { fileExists, readFile, writeFile } from './utils.js'
+import { fileExists, readFile, singleExecute, writeFile } from './utils.js'
 
 const HTML_PATH = './html/browse.html'
 
@@ -35,3 +35,5 @@ export async function scrapeBrowsePage() {
 
   writeFile('./json/browse.json', JSON.stringify({ herbs }, null, 1))
 }
+
+singleExecute(scrapeBrowsePage)
