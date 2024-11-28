@@ -1,80 +1,75 @@
 import * as cheerio from 'cheerio'
 import { readFile, writeFile, singleExecute } from './utils.js'
 
-/**
- * @param {string | Buffer} html
- */
-export async function processHerbPage(html) {
-  /** @type {cheerio.CheerioAPI} */
-  let $
-
-  if (typeof html === 'string') {
-    $ = cheerio.load(html)
-  } else {
-    $ = cheerio.loadBuffer(html)
-  }
-
-  let index = 0
-  const name = $('.p-blog > p > strong').contents().first().text().toLowerCase()
-  const sections = [
-    { title: 'summary', contents: [] }
-  ]
+export async function processHerbPage(herb) {
+  const { name, scientific, nicknames } = herb
+  const html = readFile(`./html/herbs/${name.toLowerCase()}.html`)
+  const $ = cheerio.loadBuffer(html)
+  const deskripsi = []
+  const sections = []
+  let index = -1
 
   $('.p-blog').children().each(function () {
     const text = $(this).text().trim()
 
     switch (this.tagName.toLowerCase()) {
-      case 'p':
-        sections[index].contents.push(text)
-        break
-      case 'h4':
-      case 'h3':
       case 'h2':
         index++
-        sections[index] = { title: text, contents: [] }
+        sections[index] = {
+          nama: text,
+          penjelasan: '',
+          kandungan: '',
+          manfaat: '',
+        }
         break
-      case 'ol':
-      case 'ul':
-        if (!$('ol, ul', this).length) {
-          $('li', this).each(function () {
-            const text = $(this).text()
-            sections[index].contents.push(text)
-          })
-
+      case 'p':
+        if (index === -1) {
+          deskripsi.push(text)
           return
         }
 
-        $('> li', this).each(function () {
-          index++
-          const title = $('h4', this).text().trim().replace(':', '')
+        if (!sections[index]) return
 
-          if (!$('li', this).length) {
-            const text = $(this).text().replace(/^:|:$/g, '').trim()
-            const [title, contents] = text.split(': ')
-
-            sections[index] = { title, contents }
-            return
-          }
-
+        sections[index].penjelasan = $(this).text()
+        break
+      case 'ol':
+      case 'ul':
+        $('> li', this).each(function (i) {
           const items = []
 
-          $('li', this).each(function () {
+          if ($('li', this).length) {
+            $('li', this).each(function () {
+              const text = $(this).text().replace(/^:|:$/g, '').trim()
+              items.push(text)
+            })
+          } else {
             const text = $(this).text().replace(/^:|:$/g, '').trim()
-            const [title, contents] = text.split(': ')
+            items.push(text)
+          }
 
-            items.push({ title, contents })
-          })
+          const text = items.join('\n')
 
-          sections[index] = { title, contents: items }
+          if (i) {
+            sections[index].manfaat = text
+          } else {
+            sections[index].kandungan = text.replace('Kandungan: ', '')
+          }
         })
 
         break
     }
   })
 
+  const data = {
+    nama: `${name} (${scientific})`,
+    sebutan: nicknames,
+    deskripsi: deskripsi.join('\n'),
+    bagian: sections
+  }
+
   writeFile(
-    `./json/herbs/${name}.json`,
-    JSON.stringify({ sections }, null, 1)
+    `./json/herbs/${name.toLowerCase()}.json`,
+    JSON.stringify(data, null, 1)
   )
 
   console.log(`${name} - preprocessing finished`)
@@ -84,9 +79,5 @@ singleExecute(() => {
   const buffer = readFile('./json/browse.json').toString()
   const { herbs } = JSON.parse(buffer)
 
-  for (const { name } of herbs) {
-    processHerbPage(
-      readFile(`./html/herbs/${name.toLowerCase()}.html`)
-    )
-  }
+  herbs.forEach(processHerbPage)
 })
