@@ -1,0 +1,41 @@
+{
+ "nama": "Adas Manis (Pimpinella anisum)",
+ "sebutan": [
+  "Anise",
+  "Aniseed",
+  "Anis"
+ ],
+ "deskripsi": "Adas manis (Pimpinella anisum) adalah tumbuhan yang dikenal karena bijinya yang digunakan sebagai rempah-rempah dan bahan obat tradisional.\nBerikut adalah penjelasan mengenai bagian-bagian tumbuhan Adas manis, kandungannya, serta manfaat kesehatannya.",
+ "bagian": [
+  {
+   "nama": "Biji",
+   "penjelasan": "Manfaat:",
+   "kandungan": "Mendukung kesehatan pencernaan: Minyak atsiri dan serat dalam biji adas manis membantu mengurangi perut kembung, gas, dan meningkatkan pencernaan.",
+   "manfaat": "Meningkatkan kesehatan tulang: Kandungan kalsium dan magnesium dalam biji adas manis mendukung kepadatan dan kekuatan tulang."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "Manfaat:",
+   "kandungan": "Meningkatkan kesehatan mata: Vitamin A dalam daun adas manis membantu menjaga penglihatan yang baik dan kesehatan mata secara umum.",
+   "manfaat": "Mendukung perkembangan janin: Asam folat penting untuk ibu hamil dalam mendukung perkembangan janin yang sehat."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "Manfaat:",
+   "kandungan": "Mendukung kesehatan jantung: Serat dalam batang membantu mengurangi kadar kolesterol, yang baik untuk kesehatan jantung.",
+   "manfaat": "Meningkatkan kesehatan tulang: Kandungan kalsium membantu menjaga kekuatan dan kepadatan tulang."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "Manfaat:",
+   "kandungan": "Mendukung kesehatan pencernaan: Serat dan minyak atsiri dalam akar adas manis membantu meredakan gangguan pencernaan seperti kembung dan gas.",
+   "manfaat": "Meningkatkan fungsi saraf: Magnesium dalam akar mendukung fungsi saraf yang sehat."
+  },
+  {
+   "nama": "Bunga",
+   "penjelasan": "Tanaman ini tidak hanya digunakan sebagai rempah-rempah dalam masakan, tetapi juga sebagai bahan alami untuk menjaga kesehatan secara keseluruhan.",
+   "kandungan": "Melawan radikal bebas: Flavonoid dalam bunga adas manis melindungi tubuh dari kerusakan akibat radikal bebas.",
+   "manfaat": "Meningkatkan kesehatan jantung: Terpenoid dalam bunga adas manis membantu menjaga kesehatan jantung dengan mengurangi peradangan."
+  }
+ ]
+}

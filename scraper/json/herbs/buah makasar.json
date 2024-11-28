@@ -1,0 +1,35 @@
+{
+ "nama": "Buah Makasar (Brucea javanica)",
+ "sebutan": [
+  "Macassar kernels",
+  "Amber merica",
+  "Kosam"
+ ],
+ "deskripsi": "Buah Makasar (Brucea javanica) adalah tanaman semak yang berasal dari Asia Tenggara dan telah lama digunakan dalam pengobatan tradisional di berbagai negara, termasuk Indonesia, Tiongkok, dan Malaysia. Tanaman ini dikenal karena buahnya yang kecil, bulat, dan berwarna hitam ketika matang.\nDalam pengobatan tradisional, Buah Makasar sering digunakan untuk mengobati malaria, disentri, dan kanker. Buah ini memiliki sifat antiparasit, antikanker, dan anti-inflamasi, sehingga digunakan dalam ramuan obat untuk mengatasi penyakit-penyakit tersebut.\nSelain itu, biji dari buah ini juga digunakan untuk mengobati masalah kulit, seperti luka dan infeksi. Berikut bagian-bagian dari tumbuhan ini:",
+ "bagian": [
+  {
+   "nama": "Buah",
+   "penjelasan": "Buah berbentuk kecil, bulat, dan berdiameter sekitar 5-6 mm. Buah ini berwarna hijau ketika masih muda dan berubah menjadi hitam ketika matang. Permukaan buahnya keras dan kasar dengan tekstur yang padat. Setiap buah mengandung biji tunggal yang juga berwarna hitam dan memiliki rasa yang sangat pahit.",
+   "kandungan": "Buah Buah Makasar mengandung senyawa alkaloid seperti brusatol, brucein A, dan bruceantin yang dikenal memiliki efek antikanker dan antiparasit.",
+   "manfaat": "Mengobati Malaria: Ekstrak buah digunakan dalam pengobatan malaria karena kandungan antiparasitnya yang efektif melawan plasmodium.\nAntikanker: Senyawa brusatol dan bruceantin dalam buah ini dikenal memiliki kemampuan untuk menghambat pertumbuhan sel kanker.\nMengatasi Disentri: Buah ini digunakan dalam pengobatan tradisional untuk meredakan disentri dan gangguan pencernaan lainnya.\nMengobati Infeksi Kulit: Biji dari buah ini digunakan untuk mengobati berbagai infeksi kulit dan luka.\nMenurunkan Demam: Buah Buah Makasar juga dikenal dapat digunakan untuk menurunkan demam tinggi yang disebabkan oleh infeksi."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "Daun berbentuk elips dengan panjang sekitar 5-15 cm dan lebar 3-6 cm. Daun ini berwarna hijau tua di bagian atas dan hijau muda di bagian bawah, dengan permukaan yang kasar dan tepi bergerigi. Daun tersusun secara berselang-seling di sepanjang batang dan memiliki tangkai yang pendek.",
+   "kandungan": "Daun Buah Makasar mengandung tanin, flavonoid, dan saponin yang memiliki sifat antiinflamasi dan antioksidan.",
+   "manfaat": "Mengurangi Peradangan: Kandungan antiinflamasi dalam daun membantu mengurangi peradangan dalam tubuh, terutama pada kondisi seperti artritis.\nAntimikroba: Daun ini memiliki sifat antimikroba yang efektif melawan bakteri dan virus.\nMengatasi Luka: Ekstrak daun digunakan secara topikal untuk mempercepat penyembuhan luka dan infeksi kulit.\nMenjaga Kesehatan Pencernaan: Tanin dalam daun membantu dalam mengatasi gangguan pencernaan dan diare.\nAntioksidan: Flavonoid dalam daun membantu melindungi tubuh dari kerusakan akibat radikal bebas."
+  },
+  {
+   "nama": "Kulit Batang",
+   "penjelasan": "Kulit batang berwarna cokelat gelap hingga kehitaman dengan permukaan yang kasar dan beralur. Kulit batang ini tebal dan keras, melindungi bagian dalam batang yang lebih lembut. Kulit batangnya mudah terkelupas dalam potongan-potongan kecil.",
+   "kandungan": "Kulit batang Buah Makasar mengandung senyawa tanin, alkaloid, dan saponin.",
+   "manfaat": "Mengatasi Masalah Pencernaan: Kulit batang digunakan dalam ramuan untuk mengatasi masalah pencernaan seperti diare dan kolik.\nAntiparasit: Senyawa dalam kulit batang ini efektif melawan parasit internal seperti cacing.\nMeredakan Demam: Kulit batang dapat digunakan untuk menurunkan demam akibat infeksi.\nMengurangi Nyeri: Ekstrak dari kulit batang digunakan untuk meredakan nyeri, terutama nyeri sendi.\nDetoksifikasi: Kulit batang membantu dalam detoksifikasi tubuh dengan meningkatkan fungsi hati dan ginjal."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "Buah Makasar (Brucea javanica) adalah tanaman yang memiliki nilai medis yang tinggi, terutama dalam pengobatan tradisional di Asia Tenggara. Setiap bagian tanaman ini, mulai dari buah, daun, kulit batang, hingga akarnya, memiliki kandungan aktif yang bermanfaat untuk kesehatan. Meskipun penggunaannya dalam pengobatan modern masih terbatas, potensi Buah Makasar sebagai tanaman obat tidak dapat diabaikan.",
+   "kandungan": "Akar Buah Makasar mengandung alkaloid, tanin, dan triterpena yang memiliki efek antikanker dan antiinflamasi.",
+   "manfaat": "Antikanker: Akar digunakan dalam pengobatan tradisional untuk menghambat pertumbuhan sel kanker, terutama kanker hati dan lambung.\nMengatasi Masalah Pernapasan: Akar digunakan untuk mengobati asma dan bronkitis dengan melonggarkan saluran pernapasan.\nMeredakan Nyeri: Kandungan antiinflamasi dalam akar membantu meredakan nyeri dan radang.\nMeningkatkan Fungsi Hati: Akar digunakan untuk meningkatkan fungsi hati dan detoksifikasi tubuh.\nAntiparasit: Ekstrak akar digunakan untuk mengusir cacing parasit dalam tubuh."
+  }
+ ]
+}

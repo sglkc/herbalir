@@ -1,0 +1,39 @@
+{
+ "nama": "Semanggi Merah (Trifolium pratense)",
+ "sebutan": [
+  "Red Clover"
+ ],
+ "deskripsi": "Semanggi Merah (Trifolium pratense) adalah tumbuhan leguminosa yang terkenal di berbagai belahan dunia, terutama karena kandungan nutrisinya yang tinggi dan khasiatnya untuk kesehatan. Tumbuhan ini sering digunakan dalam pengobatan tradisional serta sebagai suplemen herbal modern.\nSemanggi merah memiliki berbagai bagian, seperti bunga, daun, batang, akar, dan biji, yang masing-masing mengandung senyawa penting dengan manfaat kesehatan yang signifikan.",
+ "bagian": [
+  {
+   "nama": "Bunga",
+   "penjelasan": "",
+   "kandungan": "Isoflavon: Senyawa mirip estrogen yang dapat membantu dalam keseimbangan hormon.\nFlavonoid: Antioksidan kuat yang melindungi sel-sel tubuh dari kerusakan oksidatif.\nTanin: Senyawa dengan sifat astringen yang membantu dalam proses penyembuhan.\nSaponin: Senyawa yang memiliki sifat anti-inflamasi dan antimikroba.\nAsam Salisilat: Komponen dengan efek analgesik dan anti-inflamasi.",
+   "manfaat": "Membantu keseimbangan hormon: Isoflavon dalam bunga membantu mengurangi gejala menopause dan mendukung kesehatan hormon.\nMelawan radikal bebas: Flavonoid melindungi sel dari kerusakan oksidatif dan menurunkan risiko penyakit kronis.\nMempercepat penyembuhan luka: Tannin membantu dalam penyembuhan luka dan mencegah infeksi.\nMengurangi peradangan: Saponin memiliki sifat anti-inflamasi yang membantu mengurangi peradangan dalam tubuh.\nMengurangi nyeri: Asam salisilat membantu meredakan nyeri otot dan sendi."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Vitamin C: Antioksidan yang mendukung sistem kekebalan tubuh dan kulit.\nKlorofil: Zat yang membantu dalam detoksifikasi tubuh dan mendukung kesehatan darah.\nMagnesium: Mineral penting untuk fungsi otot dan saraf.\nBeta-karoten: Prekursor vitamin A yang penting untuk kesehatan mata.\nVitamin B9: Vitamin B yang penting untuk pembentukan sel darah merah.",
+   "manfaat": "Meningkatkan kekebalan tubuh: Vitamin C membantu melindungi tubuh dari infeksi.\nDetoksifikasi alami: Klorofil membantu menghilangkan racun dari tubuh dan mendukung kesehatan hati.\nMenjaga kesehatan mata: Beta-karoten dalam daun mendukung kesehatan mata dan mencegah degenerasi makula.\nMengatur fungsi otot dan saraf: Magnesium membantu menjaga fungsi otot dan saraf yang sehat.\nMendukung kesehatan darah: Asam folat penting untuk produksi sel darah merah dan pencegahan anemia."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Serat pangan: Membantu pencernaan dan menjaga kadar gula darah.\nLignin: Senyawa yang membantu dalam pencegahan penyakit kardiovaskular.\nFitoestrogen: Komponen yang mirip hormon estrogen, membantu keseimbangan hormon.\nFlavonoid: Senyawa antioksidan yang melindungi sel dari kerusakan.\nMineral: Kandungan mineral seperti kalsium dan magnesium yang penting untuk kesehatan tulang.",
+   "manfaat": "Menjaga kesehatan pencernaan: Serat dalam batang membantu memperlancar pencernaan dan mencegah sembelit.\nMendukung kesehatan jantung: Lignin membantu mengurangi risiko penyakit jantung dengan menurunkan kadar kolesterol.\nMengatur hormon: Fitoestrogen membantu mengurangi gejala menopause dan mendukung kesehatan hormon.\nMelindungi dari radikal bebas: Flavonoid dalam batang melindungi sel dari kerusakan oksidatif.\nMemperkuat tulang: Kandungan kalsium dan magnesium mendukung kesehatan tulang dan mencegah osteoporosis."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "",
+   "kandungan": "Inulin: Serat prebiotik yang mendukung kesehatan usus.\nTriterpena: Senyawa yang memiliki sifat anti-inflamasi dan anti-kanker.\nPolifenol: Antioksidan kuat yang melindungi sel-sel dari kerusakan.\nAsam Fenolik: Komponen dengan efek antioksidan dan anti-inflamasi.\nFitosterol: Senyawa yang membantu menurunkan kadar kolesterol.",
+   "manfaat": "Meningkatkan kesehatan usus: Inulin membantu pertumbuhan bakteri baik di usus dan meningkatkan kesehatan pencernaan.\nMengurangi risiko kanker: Triterpenoid memiliki sifat anti-kanker yang melindungi tubuh dari perkembangan sel kanker.\nMelindungi sel-sel tubuh: Polifenol dalam akar membantu melindungi sel dari kerusakan oksidatif.\nMengurangi peradangan: Asam fenolat membantu mengurangi peradangan dan nyeri dalam tubuh.\nMenurunkan kolesterol: Fitosterol membantu mengurangi kadar kolesterol jahat dan mendukung kesehatan jantung."
+  },
+  {
+   "nama": "Biji",
+   "penjelasan": "Mengonsumsi bagian-bagian dari tumbuhan ini secara teratur dapat membantu menjaga kesehatan tubuh secara menyeluruh dan mencegah berbagai penyakit.",
+   "kandungan": "Protein: Nutrisi penting untuk pertumbuhan dan perbaikan jaringan tubuh.\nLemak sehat: Asam lemak esensial yang penting untuk fungsi otak dan jantung.\nSerat: Membantu dalam pencernaan dan menjaga kadar gula darah.\nAsam Amino: Komponen penting untuk sintesis protein dalam tubuh.\nMineral (Zinc, Magnesium): Mendukung sistem imun dan fungsi metabolisme.",
+   "manfaat": "Membangun dan memperbaiki jaringan tubuh: Protein dalam biji membantu pertumbuhan dan perbaikan jaringan otot dan tubuh.\nMendukung kesehatan jantung: Lemak sehat membantu menjaga keseimbangan kolesterol dan mendukung fungsi jantung.\nMemperlancar pencernaan: Serat dalam biji membantu pencernaan dan mencegah sembelit.\nMendukung fungsi otak: Asam lemak esensial membantu dalam fungsi kognitif dan perkembangan otak.\nMeningkatkan sistem imun: Mineral seperti zinc dan magnesium membantu meningkatkan kekebalan tubuh dan mendukung fungsi metabolisme."
+  }
+ ]
+}

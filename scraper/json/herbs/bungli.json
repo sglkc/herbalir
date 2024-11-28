@@ -1,0 +1,35 @@
+{
+ "nama": "Bungli (Oroxylum indicum)",
+ "sebutan": [
+  "Oroxylum",
+  "Indian trumpet tree",
+  "Kayu Lanang"
+ ],
+ "deskripsi": "Bungli (Oroxylum indicum) adalah tanaman anggota keluarga Bignoniaceae yang tumbuh di daerah tropis, termasuk Indonesia. Tanaman ini dikenal dengan nama umum \"Indian trumpet flower\" dalam bahasa Inggris. Bungli memiliki ciri khas berupa batang yang tegak, daun yang berwarna hijau tua, dan bunga berbentuk lonceng yang biasanya berwarna ungu atau putih.\nBungli memiliki peran penting dalam pengobatan tradisional di berbagai budaya, terutama di Asia. Bagian-bagian tanaman ini, seperti akar, batang, dan daun, digunakan untuk mengobati berbagai penyakit. Misalnya, ekstrak dari biji Bungli sering dimanfaatkan untuk mengatasi masalah saluran pencernaan dan meningkatkan kesehatan sistem kekebalan tubuh.\nSelain itu, tumbuhan ini juga dikenal memiliki sifat anti-inflamasi dan antioksidan, yang membuatnya bermanfaat dalam mengurangi gejala radang serta meningkatkan vitalitas.\nBerikut bagian-bagian dari tumbuhan ini:",
+ "bagian": [
+  {
+   "nama": "Kulit Batang",
+   "penjelasan": "Kulit batang berwarna coklat hingga abu-abu dengan tekstur yang kasar dan bersisik. Bagian ini sering digunakan dalam bentuk bubuk atau rebusan untuk pengobatan.",
+   "kandungan": "Kulit batang mengandung senyawa flavonoid, alkaloid, dan tanin yang memberikan efek antioksidan dan antiinflamasi.",
+   "manfaat": "Mengatasi Gangguan Pencernaan: Kulit batang digunakan untuk meredakan gangguan pencernaan seperti diare dan dispepsia.\nAntiinflamasi: Membantu mengurangi peradangan, khususnya pada kondisi seperti arthritis.\nMengatasi Demam: Digunakan sebagai antipiretik untuk menurunkan demam.\nMenjaga Kesehatan Hati: Kulit batang ini memiliki efek hepatoprotektif yang melindungi hati dari kerusakan.\nMeningkatkan Imunitas: Berperan sebagai imunostimulan yang memperkuat sistem kekebalan tubuh."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "Daun besar, lebar, dan tersusun dalam bentuk majemuk dengan tepi yang halus. Warna daunnya hijau gelap dengan tekstur yang agak kasar di permukaan atas dan halus di bagian bawah.",
+   "kandungan": "Daun mengandung berbagai senyawa seperti flavonoid, saponin, dan fitosterol yang memiliki berbagai manfaat terapeutik.",
+   "manfaat": "Mengatasi Luka dan Infeksi Kulit: Daun digunakan sebagai kompres untuk mengobati luka dan infeksi kulit.\nMeredakan Nyeri: Memiliki sifat analgesik yang membantu meredakan nyeri, termasuk nyeri otot dan sendi.\nAntimikroba: Daun ini memiliki efek antimikroba yang melawan bakteri dan jamur penyebab infeksi.\nDetoksifikasi: Membantu proses detoksifikasi tubuh dengan cara merangsang fungsi hati.\nMengatasi Batuk dan Asma: Rebusan daun sering digunakan untuk meredakan batuk dan gejala asma."
+  },
+  {
+   "nama": "Bunga",
+   "penjelasan": "Bunga berbentuk corong dan berwarna ungu keunguan dengan aroma yang khas. Bunga ini biasanya mekar pada malam hari dan menarik berbagai jenis serangga penyerbuk.",
+   "kandungan": "Bunga mengandung flavonoid, alkaloid, dan asam fenolik yang memberikan efek menenangkan dan antioksidan.",
+   "manfaat": "Menenangkan Sistem Saraf: Bunga digunakan dalam teh atau ekstrak untuk menenangkan sistem saraf dan meredakan stres.\nMeningkatkan Kualitas Tidur: Dapat membantu meningkatkan kualitas tidur dengan sifat sedatifnya.\nMeredakan Gejala Depresi: Bunga ini memiliki efek yang dapat meningkatkan mood dan mengurangi gejala depresi.\nMengatasi Gangguan Pernapasan: Bunga sering digunakan dalam pengobatan tradisional untuk meredakan masalah pernapasan.\nAntikanker: Ekstrak bunga menunjukkan aktivitas antikanker pada beberapa studi awal."
+  },
+  {
+   "nama": "Biji",
+   "penjelasan": "Bungli (Oroxylum indicum) adalah tanaman yang memiliki berbagai manfaat, baik dalam bidang kesehatan maupun lingkungan. Dikenal dengan nama lokalnya, tanaman ini kaya akan senyawa bioaktif yang memiliki potensi sebagai antioksidan, antiradang, dan antimikroba. Selain itu, Bungli juga berperan penting dalam ekosistem sebagai penyedia habitat bagi berbagai spesies, serta berkontribusi dalam menjaga keseimbangan lingkungan. ",
+   "kandungan": "Biji mengandung senyawa alkaloid, flavonoid, dan minyak atsiri yang memiliki berbagai efek farmakologis.",
+   "manfaat": "Mengatasi Sembelit: Biji digunakan sebagai pencahar alami untuk mengatasi sembelit.\nMengurangi Kolesterol: Membantu menurunkan kadar kolesterol dengan cara menghambat penyerapan lemak.\nAntidiabetes: Biji Bungli dapat membantu mengatur kadar gula darah pada penderita diabetes.\nMeningkatkan Fungsi Ginjal: Digunakan untuk mendukung kesehatan ginjal dan mengatasi masalah batu ginjal.\nMelawan Parasit Usus: Biji juga digunakan untuk mengatasi infeksi cacing atau parasit di usus."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "nama": "Teh (Camellia sinensis)",
+ "sebutan": [
+  "Tea",
+  "Teh Hijau",
+  "Lampe"
+ ],
+ "deskripsi": "Teh adalah minuman yang paling banyak dikonsumsi di dunia setelah air. Teh berasal dari daun tanaman Camellia sinensis dan telah menjadi bagian integral dari budaya banyak negara, terutama di Asia.\nTeh tidak hanya dinikmati karena rasanya, tetapi juga karena manfaat kesehatannya yang luas, yang didukung oleh berbagai penelitian ilmiah.",
+ "bagian": [
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Polifenol (katekin): Senyawa antioksidan yang sangat kuat, dengan epigallocatechin gallate (EGCG) sebagai salah satu yang paling berkhasiat.\nKafein: Zat stimulan yang dapat meningkatkan kewaspadaan dan energi.\nL-theanine: Asam amino yang memberikan efek menenangkan dan membantu meningkatkan fungsi kognitif.\nFlavonoid: Antioksidan yang dapat mengurangi risiko penyakit jantung dan kanker.",
+   "manfaat": "Antioksidan: Melindungi tubuh dari kerusakan oksidatif dan penuaan dini.\nKesehatan jantung: Mengurangi risiko penyakit jantung dengan menurunkan kadar kolesterol LDL.\nKesehatan otak: Meningkatkan fungsi kognitif dan menurunkan risiko penyakit neurodegeneratif.\nPenurunan berat badan: Meningkatkan metabolisme dan membantu pembakaran lemak."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Tanin: Senyawa astringen yang dapat membantu dalam proses penyembuhan luka dan mengurangi inflamasi.\nSerat: Meskipun tidak dikonsumsi secara langsung, batang teh mengandung serat yang bermanfaat untuk kesehatan pencernaan bila diolah dengan cara tertentu.",
+   "manfaat": "Anti-inflamasi: Tanin dapat mengurangi peradangan dan mempercepat penyembuhan luka.\nPencernaan: Serat dalam batang teh (jika diolah) dapat membantu melancarkan pencernaan dan menjaga kesehatan usus."
+  },
+  {
+   "nama": "Bunga",
+   "penjelasan": "",
+   "kandungan": "Saponin: Senyawa yang memiliki sifat antimikroba dan dapat meningkatkan sistem kekebalan tubuh.\nMinyak atsiri: Mengandung senyawa aromatik yang bermanfaat dalam aromaterapi dan untuk relaksasi.",
+   "manfaat": "Sistem kekebalan: Saponin dapat memperkuat sistem imun dan membantu melawan infeksi.\nRelaksasi: Minyak atsiri dalam bunga teh memiliki efek menenangkan dan dapat digunakan dalam aromaterapi untuk mengurangi stres dan kecemasan."
+  },
+  {
+   "nama": "Biji",
+   "penjelasan": "",
+   "kandungan": "Minyak teh: Mengandung asam oleat, asam linoleat, dan vitamin E yang bermanfaat untuk kulit.\nProtein dan lemak sehat: Memberikan nutrisi yang bermanfaat untuk tubuh.",
+   "manfaat": "Kesehatan kulit: Minyak teh dari biji teh dapat melembapkan kulit dan melindungi dari radikal bebas.\nNutrisi tubuh: Protein dan lemak sehat dalam biji teh bermanfaat untuk kesehatan secara keseluruhan, termasuk kesehatan jantung dan otak."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "",
+   "kandungan": "Polifenol: Akar teh juga mengandung polifenol, meskipun dalam jumlah lebih sedikit dibandingkan daun.\nSenyawa anti-inflamasi: Akar teh mengandung senyawa yang dapat membantu mengurangi peradangan.",
+   "manfaat": "Detoksifikasi: Akar teh dapat membantu dalam proses detoksifikasi tubuh dan meningkatkan kesehatan liver.\nAnti-inflamasi: Membantu mengurangi peradangan dan meningkatkan kesehatan sistem pencernaan."
+  },
+  {
+   "nama": "Kulit batang",
+   "penjelasan": "Meskipun demikian, penting untuk mengonsumsi teh dalam jumlah yang tepat dan mempertimbangkan kondisi kesehatan individu. Dukungan dari penelitian ilmiah memberikan validasi lebih lanjut tentang manfaat teh, menjadikannya salah satu minuman paling bermanfaat di dunia.",
+   "kandungan": "Tanin dan saponin: Kulit batang mengandung tanin dan saponin, yang memiliki manfaat antimikroba dan antioksidan.",
+   "manfaat": "Antimikroba: Kulit batang teh dapat digunakan sebagai bahan alami untuk melawan infeksi dan mempercepat penyembuhan luka.\nAntioksidan: Membantu melindungi tubuh dari kerusakan oksidatif."
+  }
+ ]
+}

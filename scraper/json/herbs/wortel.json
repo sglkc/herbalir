@@ -1,0 +1,33 @@
+{
+ "nama": "Wortel (Daucus carota subsp. sativus)",
+ "sebutan": [
+  "Carrot"
+ ],
+ "deskripsi": "Wortel (Daucus carota subsp. sativus) adalah salah satu sayuran yang sangat bergizi dan sering digunakan dalam berbagai hidangan di seluruh dunia. Tanaman wortel memiliki beberapa bagian yang masing-masing memberikan manfaat kesehatan yang berbeda.\nDalam pengobatan tradisional, wortel sering digunakan untuk berbagai keperluan kesehatan. Akarnya yang kaya akan vitamin A, beta-karoten, dan antioksidan lainnya dipercaya dapat meningkatkan kesehatan mata, memperbaiki fungsi sistem kekebalan tubuh, dan mengurangi risiko penyakit kronis.\nWortel juga digunakan untuk meredakan masalah pencernaan dan meningkatkan kesehatan kulit, berkat kandungan vitamin dan mineralnya yang mendukung regenerasi sel dan melawan radikal bebas. Selain itu, wortel sering diolah menjadi jus untuk detoksifikasi dan menjaga kesehatan jantung.\nBerikut adalah penjelasan mengenai bagian-bagian tanaman wortel, kandungan yang terdapat pada masing-masing bagian, serta manfaat kesehatannya.",
+ "bagian": [
+  {
+   "nama": "Akar",
+   "penjelasan": "Akar wortel memiliki tekstur yang keras di luar dan agak lunak di dalam, dengan permukaan yang relatif halus dan sering kali sedikit berkerut atau bercabang di bagian ujungnya. Akar ini juga memiliki rasa manis yang khas, berkat kandungan gula alami yang tinggi.",
+   "kandungan": "Beta-karoten: Prekursor vitamin A yang penting untuk kesehatan mata dan kulit.\nVitamin C: Antioksidan yang mendukung sistem kekebalan tubuh dan kesehatan kulit.\nSerat: Membantu proses pencernaan dan menurunkan kadar kolesterol.\nKalium: Mineral yang mendukung fungsi jantung dan keseimbangan cairan dalam tubuh.\nAntioksidan: Senyawa seperti lutein dan zeaxanthin yang melindungi sel dari kerusakan oksidatif.",
+   "manfaat": "Menjaga Kesehatan Mata: Beta-karoten dalam akar wortel diubah menjadi vitamin A yang penting untuk kesehatan mata dan mencegah kebutaan malam.\nMeningkatkan Sistem Kekebalan Tubuh: Vitamin C dalam wortel meningkatkan sistem kekebalan tubuh, membantu melawan infeksi.\nMeningkatkan Pencernaan: Serat dalam wortel mendukung kesehatan pencernaan dan mencegah sembelit.\nMenjaga Kesehatan Jantung: Kalium dalam wortel membantu mengatur tekanan darah dan mendukung kesehatan jantung.\nMelindungi Sel dari Kerusakan Oksidatif: Antioksidan dalam wortel membantu melindungi sel dari kerusakan oksidatif dan penuaan dini."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "Helaian daunnya terbelah-belah menjadi bagian-bagian kecil yang tipis dan runcing, memberikan tampilan seperti paku. Daun wortel umumnya memiliki panjang antara 15 hingga 30 cm, dan saat dihancurkan, daun ini mengeluarkan aroma segar dan khas yang mirip dengan bau wortel.",
+   "kandungan": "Vitamin A dan Vitamin C: Antioksidan yang penting untuk kesehatan mata dan sistem kekebalan tubuh.\nKalsium: Mineral yang penting untuk kesehatan tulang dan gigi.\nKalium: Membantu menjaga keseimbangan cairan dan fungsi jantung.\nSerat: Mendukung pencernaan dan kesehatan usus.\nFlavonoid: Senyawa antioksidan yang membantu melawan radikal bebas.",
+   "manfaat": "Mendukung Kesehatan Mata: Vitamin A dalam daun wortel berkontribusi pada kesehatan mata dan penglihatan.\nMeningkatkan Kesehatan Tulang: Kalsium dalam daun wortel penting untuk menjaga kesehatan tulang dan gigi.\nMengatur Tekanan Darah: Kalium membantu mengatur tekanan darah dan mendukung fungsi jantung.\nMeningkatkan Pencernaan: Serat dalam daun wortel membantu dalam pencernaan dan mencegah sembelit.\nMelawan Radikal Bebas: Flavonoid dalam daun wortel berfungsi sebagai antioksidan yang melindungi tubuh dari kerusakan radikal bebas."
+  },
+  {
+   "nama": "Biji",
+   "penjelasan": "Biji wortel memiliki permukaan yang tidak rata dan bertekstur berbiji kecil yang khas, yang memungkinkan mereka mudah dikenali. Mereka biasanya dikumpulkan dalam kelompok kecil, dan ketika disemai, biji ini akan bercambah dalam waktu sekitar 1-3 minggu, tergantung pada kondisi lingkungan.",
+   "kandungan": "Minyak Atsiri: Mengandung senyawa seperti carotol dan alpha-pinene yang memiliki sifat antiinflamasi.\nFlavonoid: Antioksidan yang melindungi sel dari kerusakan.\nVitamin dan Mineral: Termasuk vitamin E, kalsium, dan magnesium.\nSerat: Membantu dalam pencernaan.\nAsam Lemak: Mendukung kesehatan jantung dan otak.",
+   "manfaat": "Mengurangi Peradangan: Minyak atsiri dalam biji wortel memiliki sifat antiinflamasi yang membantu mengurangi peradangan.\nMelindungi Sel dari Kerusakan: Flavonoid dalam biji wortel berfungsi sebagai antioksidan yang melindungi sel-sel tubuh.\nMendukung Kesehatan Jantung: Asam lemak esensial dalam biji wortel membantu menjaga kesehatan jantung.\nMeningkatkan Kesehatan Kulit: Vitamin E dalam biji wortel mendukung kesehatan kulit dan melawan penuaan dini.\nMendukung Pencernaan: Serat dalam biji wortel membantu dalam proses pencernaan dan menjaga keseimbangan gula darah."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "Biji wortel mengandung minyak atsiri dan flavonoid yang bermanfaat untuk mengurangi peradangan dan melindungi sel. Batang wortel meskipun jarang digunakan, juga memiliki kandungan serat, vitamin, dan mineral yang mendukung pencernaan, kesehatan kulit, dan tulang. Setiap bagian tanaman wortel dapat memberikan kontribusi penting untuk kesehatan jika dimanfaatkan dengan tepat.",
+   "kandungan": "Nantes: Dikenal karena bentuknya yang silindris dan ujungnya yang tumpul, serta rasa manis yang khas. Biasanya berwarna oranye cerah.",
+   "manfaat": "Baby Carrots: Kecil dan sering kali dikemas dalam bentuk potongan kecil, biasanya berasal dari varietas yang dipanen lebih awal atau dikembangkan khusus untuk ukuran kecil."
+  }
+ ]
+}

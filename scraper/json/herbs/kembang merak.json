@@ -1,0 +1,40 @@
+{
+ "nama": "Kembang Merak (Caesalpinia pulcherrima)",
+ "sebutan": [
+  "Peacock flower",
+  "Flamboyant flower"
+ ],
+ "deskripsi": "Kembang Merak (Caesalpinia pulcherrima), juga dikenal sebagai Peacock Flower atau Flamboyant Flower, adalah tumbuhan berbunga yang memiliki berbagai bagian yang digunakan dalam pengobatan tradisional.\nBerikut adalah penjelasan mengenai bagian-bagian tumbuhan Kembang Merak beserta kandungan dan manfaat kesehatan dari masing-masing bagian:",
+ "bagian": [
+  {
+   "nama": "Bunga",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Senyawa antioksidan.\nTanin: Senyawa dengan sifat astringen.\nAsam Fenolik: Senyawa dengan sifat anti-inflamasi.\nVitamin C: Antioksidan.\nMinyak Atsiri: Mengandung berbagai senyawa aktif.",
+   "manfaat": "Antioksidan: Flavonoid dan vitamin C melawan radikal bebas, mengurangi stres oksidatif.\nAnti-inflamasi: Asam fenolat mengurangi peradangan dalam tubuh.\nAstringen: Tanin membantu mengatasi diare dan masalah pencernaan.\nPerawatan Kulit: Ekstrak bunga dapat digunakan dalam kosmetik untuk merawat kulit.\nMenurunkan Tekanan Darah: Minyak atsiri dapat membantu menurunkan tekanan darah dan mendukung kesehatan kardiovaskular."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Senyawa antioksidan.\nSaponin: Senyawa dengan efek antimikroba.\nVitamin C: Antioksidan.\nTanin: Senyawa dengan efek astringen.\nAlkaloid: Senyawa dengan efek terapeutik.",
+   "manfaat": "Antioksidan: Flavonoid dan vitamin C melindungi sel-sel tubuh dari kerusakan oksidatif.\nAntimikroba: Saponin membantu melawan infeksi mikroba.\nAstringen: Tanin membantu mengatasi masalah pencernaan dan diare.\nAnti-inflamasi: Mengurangi peradangan dan nyeri.\nKesehatan Kulit: Daun dapat digunakan dalam bentuk ekstrak atau masker untuk merawat kulit."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Saponin: Senyawa dengan efek antimikroba.\nTanin: Senyawa dengan efek astringen.\nFlavonoid: Senyawa antioksidan.\nAsam Organik: Senyawa yang mendukung metabolisme.\nMinyak Atsiri: Mengandung senyawa aktif.",
+   "manfaat": "Antimikroba: Saponin dalam batang membantu melawan infeksi mikroba.\nAstringen: Tanin mendukung kesehatan pencernaan dan mengatasi diare.\nAntioksidan: Flavonoid melindungi tubuh dari kerusakan sel.\nMetabolisme: Asam organik mendukung proses metabolisme tubuh.\nPerawatan Kulit: Minyak atsiri dari batang dapat digunakan dalam produk perawatan kulit."
+  },
+  {
+   "nama": "Buah",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Senyawa antioksidan.\nTanin: Senyawa dengan efek astringen.\nAsam Fenolik: Senyawa anti-inflamasi.\nVitamin C: Antioksidan.\nMinyak Lemak: Mengandung asam lemak esensial.",
+   "manfaat": "Antioksidan: Flavonoid dan vitamin C melawan radikal bebas dan mendukung kesehatan umum.\nAnti-inflamasi: Asam fenolat mengurangi peradangan dalam tubuh.\nAstringen: Tanin membantu mengatasi gangguan pencernaan.\nKesehatan Jantung: Asam lemak esensial mendukung kesehatan jantung dan pembuluh darah.\nPerawatan Kulit: Ekstrak buah dapat digunakan dalam produk perawatan kulit untuk meningkatkan kesehatan kulit."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "Kembang Merak (Caesalpinia pulcherrima) memiliki berbagai bagian yang bermanfaat untuk kesehatan, mulai dari bunga, daun, batang, buah, hingga akar. Setiap bagian mengandung senyawa aktif yang memiliki manfaat seperti antioksidan, anti-inflamasi, antimikroba, dan astringen. Ini menjadikannya tumbuhan yang berharga dalam pengobatan tradisional dan perawatan kesehatan.",
+   "kandungan": "Saponin: Senyawa dengan efek antimikroba.\nTanin: Senyawa dengan efek astringen.\nFlavonoid: Senyawa antioksidan.\nAsam Fenolik: Senyawa anti-inflamasi.\nAlkaloid: Senyawa dengan efek terapeutik.",
+   "manfaat": "Antimikroba: Saponin membantu melawan infeksi mikroba.\nAnti-inflamasi: Asam fenolat mengurangi peradangan dan nyeri.\nAstringen: Tanin mendukung kesehatan pencernaan dan mengatasi diare.\nAntioksidan: Flavonoid melindungi sel-sel tubuh dari kerusakan oksidatif.\nPerawatan Kulit: Akar dapat digunakan dalam bentuk ekstrak atau ramuan untuk perawatan kulit."
+  }
+ ]
+}

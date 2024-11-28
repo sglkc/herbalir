@@ -1,0 +1,42 @@
+{
+ "nama": "Rosela (Hibiscus sabdariffa)",
+ "sebutan": [
+  "Roselle",
+  "Asam kumbang",
+  "Asam susur",
+  "Asam paya"
+ ],
+ "deskripsi": "Rosela, yang dikenal secara ilmiah sebagai Hibiscus sabdariffa, adalah tanaman berbunga dari keluarga Malvaceae. Bunga dan kelopak tanaman ini sering digunakan untuk membuat teh dan produk herbal lainnya.\nRosela dikenal memiliki berbagai manfaat kesehatan yang didukung oleh kandungan kimiawinya yang kaya. Berikut adalah penjelasan mengenai bagian-bagian tumbuhan rosela, kandungannya, dan lima manfaat kesehatan dari masing-masing bagian:",
+ "bagian": [
+  {
+   "nama": "Kelopak Bunga",
+   "penjelasan": "",
+   "kandungan": "Antosianin: Pigmen yang memberikan warna merah dan memiliki sifat antioksidan.\nVitamin C: Antioksidan kuat yang mendukung sistem kekebalan tubuh.\nAsam organik: Seperti asam sitrat, malat, dan tartarat, yang memberikan rasa asam khas.\nFlavonoid: Senyawa dengan sifat anti-inflamasi dan antioksidan.\nPolifenol: Senyawa yang melindungi tubuh dari radikal bebas.",
+   "manfaat": "Mengurangi tekanan darah: Antosianin dalam kelopak bunga rosela dikenal efektif dalam menurunkan tekanan darah tinggi.\nMeningkatkan kesehatan jantung: Flavonoid dan polifenol membantu menjaga kesehatan jantung dengan mengurangi risiko aterosklerosis.\nMeningkatkan kekebalan tubuh: Kandungan vitamin C yang tinggi mendukung sistem kekebalan tubuh dan melindungi dari infeksi.\nMelawan radikal bebas: Antioksidan dalam kelopak bunga rosela membantu melindungi sel-sel tubuh dari kerusakan oksidatif.\nMeningkatkan pencernaan: Asam organik dapat membantu meningkatkan pencernaan dan mencegah gangguan pencernaan."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Protein: Mendukung pertumbuhan dan perbaikan sel.\nSerat: Meningkatkan kesehatan pencernaan dan mencegah sembelit.\nVitamin A: Penting untuk kesehatan mata dan kulit.\nKalsium: Mineral penting untuk kesehatan tulang.\nAntioksidan: Melindungi tubuh dari stres oksidatif.",
+   "manfaat": "Meningkatkan kesehatan pencernaan: Serat dalam daun rosela membantu meningkatkan pencernaan dan mencegah sembelit.\nMendukung kesehatan mata: Vitamin A dalam daun penting untuk menjaga penglihatan yang baik.\nMenguatkan tulang: Kalsium membantu memperkuat tulang dan mencegah osteoporosis.\nMeningkatkan pertumbuhan sel: Kandungan protein membantu dalam pertumbuhan dan perbaikan sel.\nMengurangi peradangan: Antioksidan dalam daun membantu mengurangi peradangan dalam tubuh."
+  },
+  {
+   "nama": "Biji",
+   "penjelasan": "",
+   "kandungan": "Asam lemak esensial: Seperti asam linoleat yang mendukung fungsi tubuh.\nProtein: Sumber asam amino esensial untuk kesehatan tubuh.\nFlavonoid: Antioksidan yang melindungi sel-sel tubuh dari kerusakan oksidatif.\nVitamin E: Antioksidan yang penting untuk kesehatan kulit dan rambut.\nSerat: Meningkatkan pencernaan dan kesehatan jantung.",
+   "manfaat": "Mendukung kesehatan jantung: Asam lemak esensial membantu menjaga kesehatan jantung dan menurunkan kolesterol.\nMeningkatkan kesehatan kulit: Vitamin E dalam biji rosela membantu menjaga kulit tetap sehat dan mencegah penuaan dini.\nMendukung kesehatan pencernaan: Serat dalam biji membantu meningkatkan pencernaan dan mengurangi risiko sembelit.\nMelindungi sel-sel tubuh: Flavonoid dalam biji membantu melindungi tubuh dari kerusakan oksidatif.\nMeningkatkan energi: Protein dalam biji rosela menyediakan energi dan mendukung fungsi tubuh secara keseluruhan."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Serat: Digunakan untuk tekstil, tetapi juga bermanfaat untuk kesehatan pencernaan.\nTanin: Senyawa dengan sifat astringen yang dapat membantu dalam pengobatan diare.\nKalsium: Penting untuk kesehatan tulang.\nZat Besi: Mendukung produksi sel darah merah.\nAntioksidan: Melindungi tubuh dari radikal bebas.",
+   "manfaat": "Menguatkan tulang: Kandungan kalsium dalam batang rosela membantu menjaga kesehatan tulang.\nMeningkatkan pencernaan: Serat alami membantu memperlancar proses pencernaan.\nMencegah anemia: Zat besi membantu meningkatkan produksi sel darah merah dan mencegah anemia.\nMengatasi diare: Tanin dengan sifat astringen dapat membantu mengurangi gejala diare.\nMelindungi tubuh dari radikal bebas: Antioksidan dalam batang membantu mengurangi kerusakan sel oleh radikal bebas."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "Penelitian lebih lanjut dan uji klinis pada manusia diperlukan untuk lebih memahami mekanisme kerja dan efektivitas Rosela dalam berbagai kondisi kesehatan.",
+   "kandungan": "Alkaloid: Senyawa yang memiliki sifat obat.\nSaponin: Senyawa yang memiliki sifat antioksidan dan anti-inflamasi.\nSterol: Membantu dalam menurunkan kadar kolesterol.\nTanin: Berfungsi sebagai astringen alami.\nAsam Fenolik: Antioksidan yang melindungi tubuh dari kerusakan oksidatif.",
+   "manfaat": "Menurunkan kadar kolesterol: Sterol dalam akar rosela membantu mengurangi kadar kolesterol LDL.\nMengurangi peradangan: Saponin dalam akar memiliki sifat anti-inflamasi yang membantu mengurangi peradangan.\nMengatasi infeksi: Alkaloid dalam akar memiliki sifat antimikroba yang dapat melawan infeksi.\nMelindungi sel-sel tubuh: Asam fenolat membantu melindungi sel-sel tubuh dari kerusakan oksidatif.\nMengurangi diare: Tanin dalam akar bertindak sebagai astringen, yang dapat membantu mengatasi diare."
+  }
+ ]
+}

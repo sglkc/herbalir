@@ -1,0 +1,40 @@
+{
+ "nama": "Kelapa (Cocos nucifera)",
+ "sebutan": [
+  "Coconut",
+  "Nyiur"
+ ],
+ "deskripsi": "Kelapa (Cocos nucifera) adalah salah satu tanaman serbaguna dengan berbagai bagian yang memiliki manfaat kesehatan. Berikut adalah penjelasan mengenai bagian-bagian tumbuhan kelapa, kandungan yang ada pada masing-masing bagian, serta manfaatnya untuk kesehatan:",
+ "bagian": [
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Serat: Batang kelapa mengandung serat yang berguna untuk pembuatan bahan bangunan dan kerajinan tangan.\nPolifenol: Senyawa dengan sifat antioksidan.\nMinyak: Dapat digunakan dalam pembuatan produk olahan.\nSaponin: Senyawa dengan efek antimikroba.\nTanin: Senyawa dengan sifat astringen.",
+   "manfaat": "Bahan Bangunan: Batang kelapa sering digunakan dalam konstruksi dan pembuatan furnitur karena kekuatannya.\nKerajinan Tangan: Batang kelapa dapat digunakan untuk membuat berbagai kerajinan tangan, seperti anyaman dan alat musik.\nAntioksidan: Polifenol dalam batang dapat membantu melindungi tubuh dari kerusakan oksidatif.\nAnti-mikroba: Saponin dalam batang membantu melawan infeksi.\nAstringen: Tanin dalam batang dapat membantu menyembuhkan luka dan mengurangi peradangan."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Vitamin C: Antioksidan yang penting untuk kesehatan kulit dan sistem kekebalan tubuh.\nFlavonoid: Senyawa antioksidan yang melindungi sel dari kerusakan.\nSaponin: Senyawa dengan sifat antimikroba.\nTanin: Senyawa dengan sifat astringen.\nMineral: Seperti kalium dan magnesium.",
+   "manfaat": "Kesehatan Kulit: Vitamin C dan flavonoid membantu menjaga kesehatan kulit dan mencegah kerusakan oksidatif.\nMendukung Sistem Kekebalan: Vitamin C meningkatkan kekebalan tubuh.\nAnti-inflamasi: Tanin dan flavonoid mengurangi peradangan.\nAntimikroba: Saponin membantu melawan infeksi.\nKesehatan Jantung: Mineral dalam daun kelapa mendukung kesehatan jantung dan tekanan darah."
+  },
+  {
+   "nama": "Buah",
+   "penjelasan": "",
+   "kandungan": "Air Kelapa: Mengandung elektrolit seperti kalium, natrium, dan magnesium.\nDaging Kelapa: Kaya akan lemak sehat, serat, dan vitamin.\nMinyak Kelapa: Mengandung asam lemak jenuh dan asam laurat.\nGula Kelapa: Mengandung gula alami dengan indeks glikemik lebih rendah.\nProtein: Dalam bentuk bubuk kelapa kering.",
+   "manfaat": "Hidrasi: Air kelapa sangat baik untuk hidrasi tubuh dan menggantikan elektrolit.\nKesehatan Pencernaan: Serat dalam daging kelapa membantu menjaga pencernaan yang sehat.\nKesehatan Jantung: Minyak kelapa mengandung lemak sehat yang dapat mendukung kesehatan jantung.\nEnergi: Gula kelapa memberikan energi dengan indeks glikemik lebih rendah dibandingkan gula biasa.\nProtein: Bubuk kelapa menyediakan protein tambahan untuk diet."
+  },
+  {
+   "nama": "Serat/Sabut",
+   "penjelasan": "",
+   "kandungan": "Serat: Tinggi dan digunakan dalam produk kerajinan dan sebagai bahan bakar.\nLignin: Senyawa dengan sifat antioksidan.\nSelulosa: Struktur utama serat.\nMinyak: Digunakan dalam pembuatan produk.\nGula: Dapat digunakan sebagai bahan tambahan.",
+   "manfaat": "Produk Kerajinan: Serat kelapa digunakan untuk membuat berbagai produk kerajinan seperti karpet dan matras.\nBahan Bakar: Serat kelapa dapat digunakan sebagai bahan bakar alternatif.\nAntioksidan: Lignin membantu melawan kerusakan oksidatif.\nKesehatan Pencernaan: Serat mendukung sistem pencernaan.\nPengganti Bahan: Dapat digunakan sebagai bahan pengganti dalam berbagai produk industri."
+  },
+  {
+   "nama": "Tempurung",
+   "penjelasan": "Setiap bagian dari kelapa memiliki kegunaan praktis dan manfaat kesehatan yang membuatnya sangat berharga dalam pengobatan tradisional dan produk konsumen.",
+   "kandungan": "Karbon: Mengandung karbon yang dapat digunakan dalam berbagai aplikasi.\nSerat: Digunakan dalam kerajinan dan industri.\nMinyak: Dapat diekstrak untuk berbagai penggunaan.\nGula: Dapat digunakan sebagai bahan tambahan.\nSelulosa: Struktur utama dalam tempurung kelapa.",
+   "manfaat": "Bahan Bakar: Tempurung kelapa dapat digunakan sebagai bahan bakar alternatif.\nProduk Kerajinan: Tempurung dapat diolah menjadi berbagai produk kerajinan dan alat.\nPenggunaan Industri: Karbon dari tempurung kelapa digunakan dalam berbagai aplikasi industri.\nKesehatan Pencernaan: Serat dalam tempurung mendukung kesehatan pencernaan.\nMinyak: Minyak dari tempurung dapat digunakan dalam produk kosmetik dan perawatan kulit."
+  }
+ ]
+}

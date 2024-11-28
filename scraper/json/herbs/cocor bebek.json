@@ -1,0 +1,34 @@
+{
+ "nama": "Cocor Bebek (Kalanchoe pinnata)",
+ "sebutan": [
+  "Air plant",
+  "Goethe plant"
+ ],
+ "deskripsi": "Cocor Bebek (Kalanchoe pinnata), juga dikenal dengan nama lain seperti air plant atau paddle plant, adalah tanaman obat tradisional yang dikenal luas di berbagai budaya. Berikut adalah penjelasan tentang bagian-bagian tumbuhan Cocor Bebek, kandungan aktifnya, dan manfaat kesehatan dari masing-masing bagian:",
+ "bagian": [
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Seperti quercetin, kaempferol, dan rutin, yang memiliki sifat antioksidan.\nSaponin: Senyawa dengan efek anti-inflamasi dan antimikroba.\nTanin: Memiliki sifat astringen dan antioksidan.\nPolisakarida: Seperti mannan, yang memiliki berbagai efek biologis.",
+   "manfaat": "Antioksidan: Flavonoid dalam daun membantu melawan radikal bebas dan melindungi sel-sel tubuh dari kerusakan oksidatif.\nAnti-inflamasi: Saponin dalam daun dapat membantu mengurangi peradangan dalam tubuh, termasuk pada penyakit inflamasi kronis.\nAntimikroba: Daun memiliki aktivitas antimikroba yang dapat melawan infeksi bakteri dan jamur.\nPenyembuhan Luka: Tanin dalam daun membantu mempercepat penyembuhan luka dan mengurangi risiko infeksi.\nPengobatan Tradisional: Dalam pengobatan tradisional, daun digunakan untuk mengatasi masalah pencernaan, batuk, dan gangguan kulit seperti luka dan bisul."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Menyediakan efek antioksidan yang serupa dengan daun.\nSaponin: Memiliki efek anti-inflamasi dan antimikroba.\nPolisakarida: Menyediakan efek biologis tambahan.",
+   "manfaat": "Antioksidan: Flavonoid dalam batang membantu melindungi sel-sel tubuh dari kerusakan oksidatif.\nAnti-inflamasi: Saponin dalam batang dapat mengurangi peradangan dan membantu dalam pengobatan kondisi inflamasi.\nAntimikroba: Batang memiliki aktivitas antimikroba yang bermanfaat dalam melawan infeksi.\nPenyembuhan Luka: Batang digunakan dalam beberapa tradisi untuk mempercepat penyembuhan luka.\nPengobatan Tradisional: Dalam pengobatan tradisional, batang digunakan untuk masalah pencernaan dan gangguan pernapasan."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "",
+   "kandungan": "Saponin: Senyawa dengan efek anti-inflamasi dan antimikroba.\nFlavonoid: Memberikan efek antioksidan.\nPolisakarida: Menyediakan efek biologis tambahan.",
+   "manfaat": "Anti-inflamasi: Saponin dalam akar membantu mengurangi peradangan pada berbagai kondisi kesehatan.\nAntimikroba: Akar memiliki aktivitas antimikroba yang dapat membantu melawan infeksi.\nAntioksidan: Flavonoid dalam akar melindungi tubuh dari kerusakan oksidatif.\nPenyembuhan Luka: Akar digunakan dalam beberapa tradisi untuk mempercepat penyembuhan luka dan mengurangi risiko infeksi.\nPengobatan Tradisional: Dalam pengobatan tradisional, akar sering digunakan untuk mengatasi gangguan pencernaan dan masalah pernapasan."
+  },
+  {
+   "nama": "Bunga",
+   "penjelasan": "Daun, batang, akar, dan bunga tanaman ini mengandung flavonoid, saponin, dan polisakarida yang memberikan manfaat antioksidan, anti-inflamasi, antimikroba, dan penyembuhan luka.",
+   "kandungan": "Flavonoid: Seperti dalam bagian lain, memiliki efek antioksidan.\nSaponin: Menyediakan efek anti-inflamasi dan antimikroba.",
+   "manfaat": "Antioksidan: Flavonoid dalam bunga membantu melawan radikal bebas dan melindungi sel-sel tubuh.\nAnti-inflamasi: Bunga dapat membantu mengurangi peradangan dalam tubuh.\nAntimikroba: Aktivitas antimikroba dari bunga membantu melawan infeksi.\nPenyembuhan Luka: Bunga digunakan dalam beberapa tradisi untuk mempercepat penyembuhan luka.\nPengobatan Tradisional: Bunga sering digunakan untuk mengatasi berbagai gangguan kesehatan dalam pengobatan tradisional."
+  }
+ ]
+}

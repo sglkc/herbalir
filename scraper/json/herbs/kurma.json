@@ -1,0 +1,33 @@
+{
+ "nama": "Kurma (Phoenix dactylifera)",
+ "sebutan": [
+  "Date palm"
+ ],
+ "deskripsi": "Kurma (Phoenix dactylifera) adalah buah yang telah dikenal sejak zaman kuno dan memiliki berbagai manfaat kesehatan. Setiap bagian dari pohon kurma, termasuk buah, daun, dan batang, memiliki kandungan dan manfaatnya sendiri.\nBerikut adalah penjelasan mengenai bagian-bagian tumbuhan kurma, kandungannya, dan manfaatnya untuk kesehatan:",
+ "bagian": [
+  {
+   "nama": "Buah",
+   "penjelasan": "",
+   "kandungan": "Karbohidrat: Sumber utama energi, terutama gula alami seperti glukosa, fruktosa, dan sukrosa.\nSerat: Serat larut dan tidak larut yang mendukung pencernaan.\nVitamin: Vitamin A, B kompleks (termasuk B6, niacin, riboflavin), dan vitamin K.\nMineral: Kalium, magnesium, tembaga, mangan, dan zat besi.\nAntioksidan: Flavonoid, karotenoid, dan asam fenolik.",
+   "manfaat": "Meningkatkan Energi: Kandungan karbohidrat dalam kurma memberikan dorongan energi yang cepat dan berkelanjutan.\nMendukung Kesehatan Pencernaan: Serat dalam kurma membantu mencegah sembelit dan menjaga kesehatan usus.\nMeningkatkan Kesehatan Jantung: Kalium dan magnesium dalam kurma mendukung kesehatan jantung dengan membantu mengatur tekanan darah.\nMemperkuat Tulang: Mineral seperti kalium dan magnesium penting untuk kesehatan tulang dan pencegahan osteoporosis.\nMenjaga Kesehatan Kulit: Antioksidan dalam kurma membantu melawan kerusakan akibat radikal bebas, menjaga kulit tetap sehat dan awet muda."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Vitamin dan Mineral: Mengandung vitamin C, vitamin B kompleks, dan mineral seperti kalium dan magnesium.\nSenyawa Fitokimia: Flavonoid dan saponin.",
+   "manfaat": "Mendukung Kesehatan Kulit: Vitamin C dalam daun kurma membantu produksi kolagen dan melawan kerusakan kulit.\nMengurangi Peradangan: Senyawa fitokimia dalam daun memiliki sifat anti-inflamasi yang membantu mengurangi peradangan.\nMeningkatkan Sistem Kekebalan Tubuh: Vitamin dan antioksidan dalam daun mendukung sistem kekebalan tubuh.\nMenjaga Kesehatan Mata: Vitamin A dalam daun kurma penting untuk kesehatan mata.\nMengurangi Stres: Senyawa fitokimia dalam daun dapat memiliki efek menenangkan, membantu mengurangi stres."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Serat dan Karbohidrat: Batang kurma mengandung serat dan karbohidrat dalam bentuk lignin dan selulosa.\nMineral: Mengandung mineral seperti kalsium dan magnesium.",
+   "manfaat": "Mendukung Kesehatan Tulang: Mineral seperti kalsium dalam batang kurma berkontribusi pada kesehatan tulang dan pencegahan osteoporosis.\nMeningkatkan Pencernaan: Serat dalam batang membantu meningkatkan kesehatan pencernaan dan mencegah sembelit.\nMengurangi Risiko Diabetes: Serat dalam batang membantu mengatur kadar gula darah.\nMenjaga Kesehatan Jantung: Mineral seperti magnesium mendukung kesehatan jantung.\nMendukung Fungsi Metabolisme: Mineral dan serat dalam batang berperan dalam metabolisme tubuh."
+  },
+  {
+   "nama": "Bunga",
+   "penjelasan": "Daun, batang, dan bunga kurma juga memiliki manfaat kesehatan yang signifikan, dari mendukung kesehatan kulit hingga kesehatan jantung dan pencernaan.",
+   "kandungan": "Vitamin dan Mineral: Mengandung beberapa vitamin dan mineral, meskipun dalam jumlah kecil.\nSenyawa Fitokimia: Beberapa senyawa fitokimia dengan potensi manfaat kesehatan.",
+   "manfaat": "Mendukung Kesehatan Reproduksi: Bunga kurma dapat membantu dalam kesehatan reproduksi, khususnya bagi wanita.\nMeningkatkan Sistem Kekebalan Tubuh: Senyawa fitokimia dalam bunga mendukung sistem kekebalan tubuh.\nMeningkatkan Kesehatan Kulit: Vitamin dalam bunga membantu menjaga kesehatan kulit dan melawan penuaan dini.\nMengurangi Peradangan: Bunga kurma dapat memiliki efek anti-inflamasi.\nMenjaga Kesehatan Jantung: Senyawa dalam bunga mendukung kesehatan jantung dengan mengatur tekanan darah."
+  }
+ ]
+}

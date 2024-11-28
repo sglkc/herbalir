@@ -1,0 +1,27 @@
+{
+ "nama": "Brokoli (Brassica oleracea var. italica)",
+ "sebutan": [
+  "Broccoli"
+ ],
+ "deskripsi": "Brokoli (Brassica oleracea var. italica) adalah sayuran cruciferous yang sangat bergizi dan dikenal karena berbagai manfaat kesehatannya. Bagian-bagian utama dari brokoli—terutama bunga, batang, dan daun—memiliki kandungan nutrisi yang signifikan.\nBerikut adalah penjelasan mengenai bagian-bagian tumbuhan brokoli, kandungannya, dan manfaat kesehatannya:",
+ "bagian": [
+  {
+   "nama": "Bunga (Kepala Brokoli)",
+   "penjelasan": "",
+   "kandungan": "Vitamin C: Antioksidan yang mendukung sistem kekebalan tubuh dan kesehatan kulit.\nVitamin K: Penting untuk pembekuan darah dan kesehatan tulang.\nKalsium: Mineral yang mendukung kesehatan tulang dan gigi.\nSerat: Membantu pencernaan dan menjaga kesehatan usus.\nSenyawa Glukosinolat (Seperti Sulforafan): Senyawa dengan sifat antioksidan dan anti-kanker.",
+   "manfaat": "Meningkatkan sistem kekebalan tubuh: Vitamin C dalam bunga brokoli membantu meningkatkan kekebalan tubuh dan melawan infeksi.\nMendukung kesehatan tulang: Vitamin K dan kalsium berperan penting dalam menjaga kesehatan tulang dan gigi.\nMelawan kanker: Senyawa glukosinolat, terutama sulforafan, memiliki sifat anti-kanker yang dapat melawan pertumbuhan sel kanker.\nMeningkatkan kesehatan pencernaan: Serat dalam bunga brokoli membantu menjaga kesehatan usus dan mencegah sembelit.\nMendukung kesehatan jantung: Antioksidan dan serat dalam bunga brokoli dapat membantu menurunkan risiko penyakit jantung."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Vitamin C: Antioksidan yang mendukung sistem kekebalan tubuh.\nSerat: Membantu pencernaan dan menjaga kesehatan usus.\nKalium: Mineral yang membantu mengatur tekanan darah dan fungsi otot.\nVitamin B9: Vitamin B yang penting untuk kesehatan sel dan DNA.\nSenyawa Glukosinolat: Senyawa dengan sifat antioksidan dan anti-kanker.",
+   "manfaat": "Mendukung kesehatan pencernaan: Serat dalam batang brokoli membantu menjaga sistem pencernaan yang sehat.\nMengatur tekanan darah: Kalium dalam batang membantu mengatur tekanan darah dan fungsi jantung.\nMeningkatkan kesehatan sel: Asam folat mendukung kesehatan sel dan membantu mencegah cacat tabung saraf pada kehamilan.\nMelawan stres oksidatif: Senyawa glukosinolat dan vitamin C membantu melawan stres oksidatif dan peradangan.\nMenjaga kesehatan jantung: Senyawa bioaktif dalam batang brokoli dapat membantu menjaga kesehatan jantung dan pembuluh darah."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "Dengan berbagai bagian tumbuhan yang semuanya kaya akan vitamin, mineral, dan senyawa bioaktif, brokoli adalah pilihan makanan yang sangat bergizi untuk mendukung kesehatan secara keseluruhan.",
+   "kandungan": "Vitamin A: Mendukung kesehatan mata dan sistem kekebalan tubuh.\nVitamin C: Antioksidan yang membantu melindungi sel-sel tubuh.\nVitamin K: Penting untuk kesehatan tulang dan pembekuan darah.\nSerat: Membantu pencernaan dan menjaga kesehatan usus.\nMineral seperti Kalsium dan Magnesium: Mendukung kesehatan tulang dan fungsi otot.",
+   "manfaat": "Mendukung kesehatan mata: Vitamin A dalam daun brokoli membantu menjaga kesehatan mata dan penglihatan yang baik.\nMeningkatkan sistem kekebalan tubuh: Vitamin C dan vitamin K mendukung sistem kekebalan tubuh dan membantu melawan infeksi.\nMenjaga kesehatan tulang: Vitamin K dan mineral seperti kalsium dan magnesium berperan dalam kesehatan tulang.\nMeningkatkan pencernaan: Serat dalam daun membantu menjaga sistem pencernaan yang sehat dan mencegah sembelit.\nMelawan peradangan: Antioksidan dan vitamin dalam daun membantu melawan peradangan dan stres oksidatif."
+  }
+ ]
+}

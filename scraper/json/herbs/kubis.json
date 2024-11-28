@@ -1,0 +1,39 @@
+{
+ "nama": "Kubis (Brassica oleracea var. capitata)",
+ "sebutan": [
+  "Cabbage"
+ ],
+ "deskripsi": "Kubis (Brassica oleracea var. capitata) adalah tanaman sayuran daun yang sering ditemukan di berbagai hidangan di seluruh dunia. Tanaman ini termasuk dalam keluarga Brassicaceae dan terkenal dengan kepala bulat yang terdiri dari daun-daun rapat. Kubis memiliki beberapa varian warna, termasuk hijau, ungu, dan putih.\nSetiap bagian dari tanaman ini memiliki kandungan nutrisi yang beragam dan memberikan manfaat kesehatan yang signifikan.",
+ "bagian": [
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Vitamin C: Antioksidan kuat yang mendukung sistem kekebalan tubuh.\nVitamin K: Penting untuk kesehatan tulang dan pembekuan darah.\nVitamin B9: Mendukung fungsi sel dan pertumbuhan jaringan.\nGlukosinolat: Senyawa sulfur yang dapat mengurangi risiko kanker.",
+   "manfaat": "Meningkatkan sistem kekebalan tubuh:  Berkat kandungan vitamin C yang tinggi.\nMendukung kesehatan tulang:  Dengan vitamin K yang membantu penyerapan kalsium.\nMengurangi risiko kanker:  Melalui glukosinolat yang melawan pertumbuhan sel kanker.\nMenjaga kesehatan jantung:  Dengan membantu mengontrol tekanan darah.\nMeningkatkan kesehatan kulit:  Melalui vitamin C yang mendukung produksi kolagen."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Serat: Membantu pencernaan dan mengatur kadar gula darah.\nAir: Menjaga hidrasi tubuh.\nVitamin C dan Vitamin K: Sama seperti daun, batang juga mengandung vitamin penting ini.",
+   "manfaat": "Meningkatkan kesehatan pencernaan:  Dengan serat yang membantu pergerakan usus.\nMenjaga keseimbangan cairan tubuh:  Melalui kandungan air yang tinggi.\nMendukung kesehatan pembuluh darah:  Dengan vitamin K yang penting untuk pembekuan darah.\nMengurangi risiko penyakit kardiovaskular:  Dengan membantu menurunkan kadar kolesterol.\nMembantu dalam pengaturan berat badan:  Dengan memberikan rasa kenyang yang lebih lama."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "",
+   "kandungan": "Kalium: Mineral penting untuk fungsi jantung dan otot.\nKalsium: Diperlukan untuk kesehatan tulang.\nMagnesium: Penting untuk fungsi saraf dan otot.",
+   "manfaat": "Mendukung kesehatan jantung:  Dengan membantu mengatur tekanan darah melalui kalium.\nMeningkatkan kesehatan tulang:  Dengan kalsium yang membantu menguatkan tulang.\nMengurangi risiko kram otot:  Dengan magnesium yang mendukung fungsi otot.\nMendukung fungsi saraf yang sehat:  Melalui peran magnesium dalam sistem saraf.\nMembantu detoksifikasi tubuh:  Dengan mempromosikan fungsi ginjal yang sehat."
+  },
+  {
+   "nama": "Biji",
+   "penjelasan": "",
+   "kandungan": "Protein: Sumber energi dan penting untuk pembentukan otot.\nLemak sehat: Membantu mengurangi kolesterol jahat.\nSerat: Mendukung kesehatan pencernaan.",
+   "manfaat": "Meningkatkan kesehatan jantung:  Melalui lemak sehat yang dapat mengurangi kadar kolesterol jahat.\nMenyediakan energi yang berkelanjutan:  Berkat kandungan protein yang tinggi.\nMembantu dalam pengaturan kadar gula darah:  Karena serat yang mengontrol pelepasan gula.\nMendukung kesehatan pencernaan:  Dengan serat yang membantu pergerakan usus.\nMeningkatkan kekebalan tubuh:  Dengan protein yang diperlukan untuk pembentukan antibodi."
+  },
+  {
+   "nama": "Bunga",
+   "penjelasan": "Kubis (Brassica oleracea var. capitata) merupakan sayuran serbaguna yang setiap bagian tumbuhannya, mulai dari daun, batang, akar, biji, hingga bunganya, memiliki kandungan nutrisi yang memberikan manfaat kesehatan signifikan. Dengan kandungan seperti vitamin C, K, serat, dan berbagai mineral, kubis dapat mendukung kesehatan jantung, tulang, kulit, dan sistem kekebalan tubuh secara keseluruhan.",
+   "kandungan": "Antioksidan: Melawan radikal bebas dan mengurangi risiko kanker.\nVitamin C: Mendukung sistem kekebalan tubuh dan kesehatan kulit.",
+   "manfaat": "Mengurangi risiko kanker:  Melalui antioksidan yang melawan radikal bebas.\nMendukung kesehatan kulit:  Dengan vitamin C yang penting untuk produksi kolagen.\nMenjaga kesehatan sistem kekebalan tubuh:  Melalui peningkatan asupan vitamin C.\nMeningkatkan kesehatan otak:  Dengan antioksidan yang melindungi sel-sel otak.\nMembantu proses penyembuhan luka: Berkat kandungan vitamin C yang mempercepat regenerasi sel."
+  }
+ ]
+}

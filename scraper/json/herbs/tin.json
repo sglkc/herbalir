@@ -1,0 +1,33 @@
+{
+ "nama": "Tin (Ficus carica)",
+ "sebutan": [
+  "Fig"
+ ],
+ "deskripsi": "Tin (Ficus carica) adalah tumbuhan yang dikenal dengan buahnya yang manis dan bergizi. Tumbuhan ini termasuk dalam keluarga Moraceae dan biasanya tumbuh di daerah beriklim subtropis hingga tropis.\nBerikut adalah penjelasan mengenai bagian-bagian tumbuhan Tin, kandungan aktifnya, dan manfaat kesehatan dari masing-masing bagian:",
+ "bagian": [
+  {
+   "nama": "Buah",
+   "penjelasan": "",
+   "kandungan": "Serat: Buah tin kaya akan serat, terutama serat larut seperti pektin.\nVitamin: Mengandung vitamin A, B, dan K.\nMineral: Kaya akan kalium, magnesium, dan kalsium.\nAntioksidan: Mengandung polifenol, flavonoid, dan fenolat.\nEnzim: Memiliki enzim proteolitik seperti ficin.",
+   "manfaat": "Pencernaan: Serat dalam buah tin membantu memperlancar pencernaan dan mencegah sembelit.\nKesehatan Jantung: Kalium dalam buah tin membantu mengatur tekanan darah dan mendukung kesehatan jantung.\nKesehatan Tulang: Kalsium dan magnesium membantu menjaga kepadatan tulang dan mencegah osteoporosis.\nAntioksidan: Polifenol dan flavonoid membantu melawan radikal bebas dan mengurangi risiko penyakit kronis.\nMenjaga Berat Badan: Serat dalam buah tin memberikan rasa kenyang lebih lama, membantu kontrol berat badan."
+  },
+  {
+   "nama": "Daun",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Mengandung flavonoid seperti quercetin dan kaempferol.\nVitamin: Mengandung vitamin C dan A.\nMineral: Kaya akan kalsium, magnesium, dan kalium.\nTanin: Mengandung tanin dengan sifat astringen.\nSaponin: Memiliki saponin dengan efek antimikroba.",
+   "manfaat": "Antioksidan: Flavonoid dan vitamin C dalam daun membantu melawan stres oksidatif.\nAnti-inflamasi: Sifat anti-inflamasi dari flavonoid dan tanin dapat mengurangi peradangan.\nPenyembuhan Luka: Daun digunakan dalam pengobatan tradisional untuk mempercepat penyembuhan luka.\nKesehatan Jantung: Kandungan mineral dalam daun membantu menjaga kesehatan jantung.\nAntimikroba: Saponin dalam daun memiliki efek antimikroba yang dapat membantu melawan infeksi."
+  },
+  {
+   "nama": "Batang",
+   "penjelasan": "",
+   "kandungan": "Flavonoid: Mengandung flavonoid dengan efek antioksidan.\nTanin: Memiliki tanin yang memberikan efek astringen.\nSaponin: Mengandung saponin yang memiliki sifat antimikroba.\nAlkaloid: Mengandung alkaloid yang dapat memberikan efek terapeutik.\nMinyak Atsiri: Mengandung minyak atsiri dengan aroma khas.",
+   "manfaat": "Antioksidan: Flavonoid dan tanin dalam batang membantu melawan kerusakan oksidatif.\nAnti-inflamasi: Tanin dan flavonoid membantu meredakan peradangan.\nPenyembuhan Luka: Batang digunakan dalam obat tradisional untuk mempercepat penyembuhan luka.\nAntimikroba: Saponin dalam batang memiliki aktivitas antimikroba.\nPengobatan Tradisional: Batang digunakan dalam berbagai pengobatan tradisional untuk kondisi kesehatan tertentu."
+  },
+  {
+   "nama": "Akar",
+   "penjelasan": "Tin (Ficus carica) memiliki berbagai bagian yang bermanfaat untuk kesehatan. Buahnya kaya akan serat, vitamin, mineral, dan antioksidan, sementara daun, batang, dan akar juga mengandung berbagai senyawa aktif yang mendukung kesehatan tubuh. Penggunaan tin dalam diet atau pengobatan tradisional dapat memberikan berbagai manfaat, termasuk peningkatan kesehatan pencernaan, jantung, tulang, serta efek antioksidan dan antimikroba.",
+   "kandungan": "Flavonoid: Mengandung flavonoid yang memberikan efek antioksidan.\nSaponin: Memiliki saponin dengan sifat antimikroba.\nAlkaloid: Mengandung alkaloid yang memiliki berbagai efek terapeutik.\nTanin: Mengandung tanin dengan efek astringen.\nMinyak Atsiri: Memiliki minyak atsiri yang memberikan aroma khas.",
+   "manfaat": "Antioksidan: Flavonoid dalam akar membantu melindungi sel dari kerusakan oksidatif.\nAnti-inflamasi: Tanin dan flavonoid mengurangi peradangan.\nAntimikroba: Saponin dalam akar memiliki efek antimikroba yang dapat membantu melawan infeksi.\nPenyembuhan Luka: Akar digunakan dalam pengobatan tradisional untuk mempercepat penyembuhan luka.\nKesehatan Pencernaan: Akar sering digunakan untuk mengatasi masalah pencernaan dan memperbaiki fungsi pencernaan."
+  }
+ ]
+}
