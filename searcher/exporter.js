@@ -1,8 +1,10 @@
-import fs from 'node:fs'
-import path from 'node:path'
-import flexsearch from 'flexsearch'
+#!/usr/bin/env node
 
-const HERBS_PATH = path.resolve(import.meta.dirname, '../scraper/json/herbs')
+import fs from 'node:fs'
+import flexsearch from 'flexsearch'
+import { getPath } from '../utils.js'
+
+const HERBS_PATH = getPath('./scraper/herbs')
 
 const index = new flexsearch.Document({
   document: {
@@ -17,7 +19,7 @@ const index = new flexsearch.Document({
   }
 })
 
-const herbs = fs.readdirSync(HERBS_PATH)
+const herbs = fs.readdirSync(HERBS_PATH).filter(name => name.endsWith('.json'))
 
 for (const herb of herbs) {
   console.log('processing', herb)
@@ -34,4 +36,7 @@ await index.export(function (key, data) {
   dataset[key] = data
 })
 
-fs.writeFileSync('./dataset.json', JSON.stringify(dataset, null, 1))
+fs.writeFileSync(
+  getPath('./searcher/dataset.json'),
+  JSON.stringify(dataset, null, 1)
+)

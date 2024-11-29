@@ -3,7 +3,7 @@ import { readFile, writeFile, singleExecute } from './utils.js'
 
 export async function processHerbPage(herb) {
   const { name, scientific, nicknames } = herb
-  const html = readFile(`./html/herbs/${name.toLowerCase()}.html`)
+  const html = readFile(`./scraper/herbs/${name.toLowerCase()}.html`)
   const $ = cheerio.loadBuffer(html)
   const deskripsi = []
   const sections = []
@@ -68,7 +68,7 @@ export async function processHerbPage(herb) {
   }
 
   writeFile(
-    `./json/herbs/${name.toLowerCase()}.json`,
+    `./scraper/herbs/${name.toLowerCase()}.json`,
     JSON.stringify(data, null, 1)
   )
 
@@ -76,7 +76,7 @@ export async function processHerbPage(herb) {
 }
 
 singleExecute(() => {
-  const buffer = readFile('./json/browse.json').toString()
+  const buffer = readFile('./scraper/browse/browse.json').toString()
   const { herbs } = JSON.parse(buffer)
 
   herbs.forEach(processHerbPage)

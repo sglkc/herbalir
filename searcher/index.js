@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
-import fs from 'node:fs'
 import flexsearch from 'flexsearch'
 import { Stemmer, Tokenizer } from 'sastrawijs'
+import { readFile } from '../utils.js'
 
 const stemmer = new Stemmer()
 const tokenizer = new Tokenizer()
@@ -22,7 +22,7 @@ const index = new flexsearch.Document({
   }
 })
 
-const file = fs.readFileSync('./dataset.json')
+const file = readFile('./searcher/dataset.json')
 const dataset = JSON.parse(file)
 
 for (const [key, data] of Object.entries(dataset)) {
@@ -31,4 +31,4 @@ for (const [key, data] of Object.entries(dataset)) {
 
 const search = process.argv.slice(2).join(' ') || 'sakit perut'
 
-console.log(index.search(search, { suggest: true }))
+console.log(index.search(search))

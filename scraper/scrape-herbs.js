@@ -1,14 +1,16 @@
+#!/usr/bin/env node
+
 import * as cheerio from 'cheerio'
-import { fileExists, readFile, singleExecute, writeFile } from './utils.js'
+import { fileExists, readFile, singleExecute, writeFile } from '../utils.js'
 
 export default async function scrapeHerbPages() {
   const fails = []
-  const buffer = readFile('./json/browse.json').toString()
+  const buffer = readFile('./scraper/browse/browse.json').toString()
   const { herbs } = JSON.parse(buffer)
 
   for (const herb of herbs) {
     const name = herb.name.toLowerCase()
-    const HTML_PATH = `./html/herbs/${name}.html`
+    const HTML_PATH = `./scraper/herbs/${name}.html`
 
     if (fileExists(HTML_PATH)) continue
 

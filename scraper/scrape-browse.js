@@ -1,8 +1,10 @@
+#!/usr/bin/env node
+
 import { resolve } from 'node:url'
 import * as cheerio from 'cheerio'
 import { fileExists, readFile, singleExecute, writeFile } from './utils.js'
 
-const HTML_PATH = './html/browse.html'
+const HTML_PATH = './scraper/browse/browse.html'
 
 export async function scrapeBrowsePage() {
   /*** @type {cheerio.CheerioAPI} */
@@ -33,7 +35,7 @@ export async function scrapeBrowsePage() {
     herbs.push({ name, scientific, nicknames, url })
   })
 
-  writeFile('./json/browse.json', JSON.stringify({ herbs }, null, 1))
+  writeFile('./scraper/browse/browse.json', JSON.stringify({ herbs }, null, 1))
 }
 
 singleExecute(scrapeBrowsePage)
