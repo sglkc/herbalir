@@ -1,7 +1,15 @@
+#!/usr/bin/env node
+
 import fs from 'node:fs'
 import flexsearch from 'flexsearch'
+import { Stemmer, Tokenizer } from 'sastrawijs'
+
+const stemmer = new Stemmer()
+const tokenizer = new Tokenizer()
 
 const index = new flexsearch.Document({
+  stemmer: stemmer.stem,
+  tokenize: tokenizer.tokenize,
   document: {
     id: 'nama',
     index: [

@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "flexsearch": "^0.7.43"
+    "flexsearch": "^0.7.43",
+    "sastrawijs": "^1.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.0"
