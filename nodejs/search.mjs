@@ -3,7 +3,7 @@ import { inspect } from 'node:util'
 import Minisearch from 'minisearch'
 import { Stemmer, Tokenizer } from 'sastrawijs'
 import { getPath, readFile } from './utils.mjs'
-import stopWords from '../stop-words.mjs'
+import stopWords from '../js/stop-words.mjs'
 
 const TEXT_PATH = (...str) => getPath('../text', ...str)
 

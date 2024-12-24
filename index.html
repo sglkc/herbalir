@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tampilan Buku</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="js/ui.mjs" type="module" defer></script>
+  </head>
+  <body>
+    <header>
+      <form class="search-form disabled">
+        <input name="query" type="text" placeholder="Sakit kepala...">
+        <button type="submit">Cari</button>
+      </form>
+    </header>
+    <main>
+      <section class="book-list">
+        <article id="book-item-template" class="book-item">
+          <div class="book-cover">
+            <img src="https://placehold.co/200x600" alt="Cover Buku">
+          </div>
+          <div class="book-details">
+            <p class="book-score">Skor: 10.823</p>
+            <h2 class="book-title">Judul</h2>
+            <p class="book-file">nama_file.pdf</p>
+            <p class="book-description">Deskripsi singkat lorem</p>
+            <div class="book-matches">
+              <span>Sakit</span>
+              <span>Lambung</span>
+            </div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </body>
+</html>
