@@ -1,5 +1,5 @@
 /** @type {Set<string>} stopWords */
-export const stopWords = new Set([
+const stopWords = new Set([
   'ada',
   'adalah',
   'adanya',
@@ -759,3 +759,5 @@ export const stopWords = new Set([
   'yakni',
   'yang',
 ])
+
+export default stopWords

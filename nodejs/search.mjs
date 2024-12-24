@@ -1,10 +1,11 @@
 import fs from 'node:fs'
+import { inspect } from 'node:util'
 import Minisearch from 'minisearch'
 import { Stemmer, Tokenizer } from 'sastrawijs'
-import { getPath, readFile } from './utils.js'
-import { stopWords } from './stop-words.js'
+import { getPath, readFile } from './utils.mjs'
+import stopWords from '../stop-words.mjs'
 
-const TEXT_PATH = (...str) => getPath('./text', ...str)
+const TEXT_PATH = (...str) => getPath('../text', ...str)
 
 const tokenizer = new Tokenizer()
 const stemmer = new Stemmer()
@@ -37,6 +38,6 @@ const engine = new Minisearch({
 
 engine.addAll(documents)
 
-const results = engine.search('test')
+const results = engine.search('sakit lambung')
 
-console.log(results)
+console.log(inspect(results, true, 4))
