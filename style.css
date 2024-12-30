@@ -40,6 +40,7 @@ header {
   flex-grow: 1;
   padding: var(--spacing-small);
   font-size: 1rem;
+  scroll-margin-top: 2rem;
 }
 
 .search-form button {
@@ -114,7 +115,7 @@ header {
   gap: var(--spacing-small);
 }
 
-.book-matches span {
+.book-matches button {
   padding: var(--spacing-small) var(--spacing-medium);
   font-size: 0.875rem; /* 14px */
   cursor: pointer;
@@ -123,6 +124,6 @@ header {
   border-radius: var(--border-radius);
 }
 
-.book-matches span:hover {
+.book-matches button:hover {
   background-color: var(--color-button-hover-bg);
 }

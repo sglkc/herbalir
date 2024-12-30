@@ -4,17 +4,19 @@ const container = document.querySelector('.book-list')
 /** @type {HTMLTemplateElement} */
 const template = document.querySelector('#book-item-template').cloneNode(true)
 
+const input = document.querySelector('input')
 const form = document.querySelector('form')
 
 /**
  * @param {Object} metadata
  * @param {string} metadata.title
+ * @param {string} metadata.description
  * @param {string} metadata.image
  * @param {string} metadata.pdf
  * @param {string|number} metadata.score
  * @param {string[]} metadata.matches
  */
-function renderItem({ title, image, pdf, score, matches }) {
+function renderItem({ title, description, image, pdf, score, matches }) {
   /** @type {HTMLDivElement} */
   const element = template.cloneNode(true)
   /** @type {HTMLElement['querySelector']} */
@@ -24,9 +26,10 @@ function renderItem({ title, image, pdf, score, matches }) {
   $('img').src = image
   $('.book-score').textContent = score
   $('.book-title').textContent = title
+  $('.book-description').textContent = description + '...'
   $('.book-file').textContent = pdf
   $('.book-matches').innerHTML = matches
-    .map((match) => `<span>${match}</span>`)
+    .map((match) => `<button onclick="searchQuery(this)">${match}</button>`)
     .join('')
 
   container.append(element)
@@ -36,13 +39,21 @@ function getResults(query, options) {
   const results = this.search(query, options)
 
   for (const result of results) {
-    const { pdf, image, score, match } = result
-    const matches = Object.keys(match)
-    const title = pdf
+    const matches = Object.keys(result.match)
 
-    renderItem({ title, image, pdf, score, matches })
+    renderItem({ ...result, matches })
   }
 }
+
+/**
+  * @param {HTMLButtonElement} button
+  */
+function searchQuery(button) {
+  input.value = button.textContent
+  input.scrollIntoView({ behavior: 'smooth' })
+}
+
+window.searchQuery = searchQuery
 
 createSearch()
   .then((minisearch) => {

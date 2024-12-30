@@ -11,8 +11,8 @@ const processTerm = (/** @type {string} */ str) => stopWords.has(str) ? null : s
 export default async function createSearch() {
   const engine = new Minisearch({
     fields: ['text'],
-    storeFields: ['pdf', 'image'],
-    idField: 'pdf',
+    storeFields: ['title', 'pdf', 'image', 'description'],
+    idField: 'title',
     processTerm,
     tokenize,
     searchOptions: {
@@ -28,11 +28,12 @@ export default async function createSearch() {
   const { files } = await res.json()
 
   for (const file of files) {
-    const { pdf, text: textFile, image } = file
+    const { title, pdf, text: textFile, image } = file
     const res = await fetch(textFile)
     const text = await res.text()
+    const description = text.substring(0, 300)
 
-    engine.add({ pdf, image, text })
+    engine.add({ title, description, pdf, image, text })
   }
 
   return engine
