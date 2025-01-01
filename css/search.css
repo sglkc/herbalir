@@ -116,6 +116,7 @@ header {
   margin-top: auto;
   display: flex;
   gap: var(--spacing-small);
+  flex-wrap: wrap;
 }
 
 .book-matches button {

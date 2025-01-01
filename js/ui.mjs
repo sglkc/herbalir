@@ -56,14 +56,19 @@ function getResults(query, options) {
 function searchQuery(button) {
   input.value = button.textContent
   input.scrollIntoView({ behavior: 'smooth' })
+  form.querySelector('button').click()
 }
 
+input.value = decodeURI(location.search).match(/search=([^&]+)/)?.[1] ?? ''
 window.searchQuery = searchQuery
 
 createSearch()
   .then((minisearch) => {
     const search = getResults.bind(minisearch)
 
+    if (input.value) search(input.value)
+
+    input.placeholder = 'Cari teks dari dokumen...'
     form.classList.remove('disabled')
     form.addEventListener('submit', (e) => {
       e.preventDefault()

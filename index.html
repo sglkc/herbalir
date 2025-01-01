@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HerbalIR - Herbal Medicine Information Retrieval</title>
+    <link rel="stylesheet" href="css/landing.css">
+  </head>
+  <body>
+    <header>
+      <div class="logo">HerbalIR</div>
+      <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <h1>Discover the Power of Herbal Medicine</h1>
+      <p>Access a wealth of information on natural remedies at your fingertips</p>
+      <form class="search-bar">
+        <input type="text" placeholder="Search for an herb...">
+        <button type="submit">Search</button>
+      </form>
+    </section>
+
+    <section class="features">
+      <div class="feature">
+        <i class="fas fa-leaf"></i>
+        <h2>Comprehensive Database</h2>
+        <p>Access information on thousands of herbs and their medicinal properties</p>
+      </div>
+      <div class="feature">
+        <i class="fas fa-book-medical"></i>
+        <h2>Evidence-Based Research</h2>
+        <p>Find scientific studies and traditional uses for each herb</p>
+      </div>
+      <div class="feature">
+        <i class="fas fa-mobile-alt"></i>
+        <h2>Mobile-Friendly</h2>
+        <p>Access information on-the-go with our responsive design</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 HerbalIR. All rights reserved.</p>
+    </footer>
+    <script type="module" defer>
+    document.querySelector('form').addEventListener('submit', (e) => {
+      e.preventDefault();
+      location.assign('search.html?search=' + document.querySelector('input').value)
+    })
+    </script>
+  </body>
+</html>

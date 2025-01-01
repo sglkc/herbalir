@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+body {
+  background-color: #f0f7f4;
+  color: #2c3e50;
+}
+
+header {
+  background-color: #4a7c59;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 1rem;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #f0f7f4;
+}
+
+.hero {
+  background-image: url('https://source.unsplash.com/1600x900/?herbs');
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  position: relative;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hero h1, .hero p, .hero .search-bar {
+  position: relative;
+  z-index: 1;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.search-bar {
+  margin-top: 2rem;
+}
+
+.search-bar input {
+  padding: 0.5rem 1rem;
+  width: 300px;
+  border: none;
+  border-radius: 20px 0 0 20px;
+}
+
+.search-bar button {
+  padding: 0.5rem 1rem;
+  background-color: #4a7c59;
+  color: #ffffff;
+  border: none;
+  border-radius: 0 20px 20px 0;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.search-bar button:hover {
+  background-color: #3a6249;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 2rem;
+  justify-items: center;
+  padding: 4rem 2rem;
+  background-color: #ffffff;
+}
+
+@media screen and (min-width: 720px) {
+  .features {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.feature {
+  text-align: center;
+  max-width: 300px;
+}
+
+.feature i {
+  font-size: 3rem;
+  color: #4a7c59;
+  margin-bottom: 1rem;
+}
+
+.popular-herbs {
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.herb-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.herb-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.herb-card:hover {
+  transform: translateY(-5px);
+}
+
+.herb-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+.herb-card h3 {
+  padding: 1rem;
+}
+
+footer {
+  background-color: #4a7c59;
+  color: #ffffff;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 2rem;
+}
