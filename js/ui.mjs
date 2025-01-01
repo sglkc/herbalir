@@ -6,6 +6,7 @@ const template = document.querySelector('#book-item-template').cloneNode(true)
 
 const input = document.querySelector('input')
 const form = document.querySelector('form')
+const message = document.querySelector('#result-message')
 
 /**
  * @param {Object} metadata
@@ -36,6 +37,7 @@ function renderItem({ title, description, image, pdf, score, matches }) {
 }
 
 function getResults(query, options) {
+  const start = Date.now()
   const results = this.search(query, options)
 
   for (const result of results) {
@@ -43,6 +45,9 @@ function getResults(query, options) {
 
     renderItem({ ...result, matches })
   }
+
+  const time = (Date.now() - start) / 10
+  message.textContent = `Ditemukan ${results.length} dokumen dalam ${time} detik.`
 }
 
 /**

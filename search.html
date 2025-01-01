@@ -4,15 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tampilan Buku</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/search.css">
     <script src="js/ui.mjs" type="module" defer></script>
   </head>
   <body>
     <header>
       <form class="search-form disabled">
-        <input name="query" type="text" placeholder="Sakit kepala...">
+        <input name="query" type="text" placeholder="Sakit kepala..." autocomplete="off">
         <button type="submit">Cari</button>
       </form>
+      <small id="result-message"></small>
     </header>
     <main>
       <section class="book-list">
