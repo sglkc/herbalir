@@ -91,6 +91,8 @@ header {
 
 .book-title {
   margin: 0 0 var(--spacing-small) 0;
+  font-size: 1.25rem;
+  color: blueviolet;
 }
 
 .book-score {

@@ -27,6 +27,7 @@ function renderItem({ title, description, image, pdf, score, matches }) {
   $('img').src = image
   $('.book-score').textContent = score
   $('.book-title').textContent = title
+  $('.book-title').href = pdf
   $('.book-description').textContent = description + '...'
   $('.book-file').textContent = pdf
   $('.book-matches').innerHTML = matches
@@ -76,6 +77,7 @@ createSearch()
       const data = new FormData(form)
       const query = data.get('query')
 
+      history.replaceState('', '', '?search=' + query)
       container.replaceChildren()
       search(query)
     })
